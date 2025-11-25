@@ -5,12 +5,12 @@ A bash script to analyse basic server performance stats.
 1. **Clone the repository**
     ```
     git clone https://github.com/Teeemy/DevOps_lab.git
-    cd server-performance-stats
+    cd server-performance
     ```
 
 2. **Make the script executable**
     ```
-    chmod +x server-stats.sh
+    chmod +x server-status.sh
     ```
 3. **Execute the script**  
     ```
